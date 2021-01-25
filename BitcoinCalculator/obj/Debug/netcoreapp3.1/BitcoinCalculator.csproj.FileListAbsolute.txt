@@ -1,0 +1,17 @@
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.exe
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.deps.json
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.runtimeconfig.json
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.runtimeconfig.dev.json
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.dll
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.pdb
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csprojAssemblyReference.cache
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.Form1.resources
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csproj.GenerateResource.cache
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.AssemblyInfoInputs.cache
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.AssemblyInfo.cs
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.dll
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.pdb
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.genruntimeconfig.cache
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administratorr\source\repos\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csproj.CopyComplete
